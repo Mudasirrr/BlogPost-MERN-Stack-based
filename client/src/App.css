@@ -1,0 +1,33 @@
+.app{
+  padding: 100px;
+}
+.form-input{
+  margin: 10px 0px;
+}
+.blog-post_display{
+  border:2px solid rgb(129, 116, 200);
+  margin: 5px 0px;
+  border-radius: 4px;
+  padding:10px;
+  background-color: rgb(189, 231, 231);
+}
+button {
+  background-color: #5900ff;
+  color: gainsboro;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .2rem;
+  cursor: pointer;
+}
+
+.form-input input,.form-input textarea{
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  border:1px solid blue;
+  padding: .375rem .75rem;
+  outline:none;
+  background-color: rgb(229, 240, 190);
+}
