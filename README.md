@@ -1,8 +1,7 @@
 # BlogPost-MERN-Stack-based ⚡️  
-MERN Stack based blog Post application..i.e for Front-end I use React.js, Bootstrap, Axios, CSS, For Back-end I use Node.js, Express.js, for data storage I use MongoDB
-# Blog Post MERN Stack Based ⚡️  
-
-⚡️  View, #**[Live Demo](https://mzosn-blogpost.herokuapp.com/)⚡️  
+MERN Stack based blog Post application..i.e for Front-end I use React.js, Bootstrap, Axios, CSS, For Back-end I use Node.js, Express.js, for data storage I use MongoDB 
+⚡️  View, #*
+*[Live Demo](https://mzosn-blogpost.herokuapp.com/)⚡️  
 
 
 ## A clean, beautiful and responsive Blog Post Application!
@@ -20,8 +19,11 @@ If you created something awesome and want to contribute then feel free to open P
 ## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
-- [graphql](https://graphql.org/) 
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
+- [Express](https://expressjs.com/) 
+- [Mongodb](https://www.mongodb.com/) 
+- [Axios](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjb0Izz44fqAhUENOwKHbfQBZEQFjAAegQIAxAB&url=https%3A%2F%2Fgithub.com%2Faxios%2Faxios&usg=AOvVaw266wVW3XPRY46nOw2ULXdh) 
+- [Node.js](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiDlN6R5IfqAhXKwKQKHRTdCDkQFjAAegQIAhAB&url=https%3A%2F%2Fnodejs.org%2F&usg=AOvVaw1tY2p-vJFWJmxWlq4sTxCn) 
+
 
 
 
