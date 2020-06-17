@@ -1,7 +1,7 @@
 # BlogPost-MERN-Stack-based ⚡️  
 MERN Stack based blog Post application..i.e for Front-end I use React.js, Bootstrap, Axios, CSS, For Back-end I use Node.js, Express.js, for data storage I use MongoDB 
 # View⚡️
-*[Live Demo](https://mzosn-blogpost.herokuapp.com/)⚡️  
+#[Live Demo](https://mzosn-blogpost.herokuapp.com/)⚡️  
 
 
 ## A clean, beautiful and responsive Blog Post Application!
